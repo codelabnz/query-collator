@@ -1,0 +1,11 @@
+{
+  "name": "query-collator",
+  "version": "0.0.1",
+  "description": "Tool for collating and showing what query params were used the most",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drive Software",
+  "license": "ISC"
+}
